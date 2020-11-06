@@ -1,7 +1,7 @@
 #  :star: EXPRESS-REACT-NODE BOILERPLATE
 :zap: Front-End Back-End housed together  
 :zap: [Boilerplate Site](https://bp-expressreactnode.herokuapp.com/)  
-:zap: Steps for set-up below
+:zap: download repo || follow steps for set-up
 
 # :star: STEPS
 ## Back-end (Express.js) set up
@@ -28,10 +28,10 @@ $ npm i path
 ```
 $ npx create-react-app "app-name-here"
 ```
-2. Replace the react-app directory name to "client"
-3. Create a "components" and "pages" (optional) directory in the "src". Add some content or temporarily copy.
+2. Rename react-app directory to "client"
+3. Create react content or copy down contents of "components" and "pages" directory in the "src" folder.
 
-At this point, starting the server and client locally should render the webpage. Push to github repository (MANDATORY before heroku deployment)
+At this point, starting the server and client locally should render the webpage. Push to github repository (MANDATORY before heroku deployment).
 
 ## Deploy to Heroku
 1. Create heroku app
