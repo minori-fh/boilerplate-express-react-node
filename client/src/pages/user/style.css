@@ -1,0 +1,40 @@
+#userPage {
+    flex-direction: row;
+}
+
+.half-panel {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#left-panel {
+    background-color: white;
+    color: black;
+}
+
+#right-panel {
+    background-color: rgb(238, 159, 172);
+    color: white;
+}
+
+#left-panel button {
+    color: black;
+    border: solid black 1px;
+}
+
+#left-panel button:hover {
+    background-color: black;
+    color: white;
+}
+
+.color-button:hover, .color-button:focus {
+    color: white;
+}
+
+.color-button {
+    border: none;
+}

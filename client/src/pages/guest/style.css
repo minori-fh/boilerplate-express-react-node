@@ -1,0 +1,14 @@
+#guestPage {
+    background-color: black;
+    color: white;
+}
+
+#guestPage button {
+    color: white;
+    border: solid white 1px;
+}
+
+#guestPage button:hover {
+    background-color: white;
+    color: black;
+}
