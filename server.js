@@ -1,7 +1,7 @@
 // DEPENDENCIES
 const express = require("express");
 const routes = require("./routes");
-const routes = require("./path");
+const path = require("./path");
 
 // EXPRESS CONFIGURATIONS
 const PORT = process.env.PORT || 8080
