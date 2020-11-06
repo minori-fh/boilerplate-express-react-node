@@ -1,9 +1,9 @@
-#  :boom: EXPRESS-REACT-NODE BOILERPLATE :boom:
+#  :star: EXPRESS-REACT-NODE BOILERPLATE
 :zap: Front-End Back-End housed together  
 :zap: [Boilerplate Site](https://bp-expressreactnode.herokuapp.com/)  
 :zap: Steps for set-up below
 
-# :boom: STEPS :boom:
+# :star: STEPS
 ## Back-end (Express.js) set up
 1. Create the following files: 
     + server.js
