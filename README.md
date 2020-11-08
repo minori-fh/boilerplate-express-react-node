@@ -29,7 +29,8 @@ $ npm i path
 $ npx create-react-app "app-name-here"
 ```
 2. Rename react-app directory to "client"
-3. Create react content or copy down contents of "components" and "pages" directory in the "src" folder.
+3. Create-react-app will automatically create a connection to git. Remove the hidden .git file to prevent submodules in your app.
+4. Create react content or copy down contents of "components" and "pages" directory in the "src" folder.
 
 At this point, starting the server and client locally should render the webpage. Push to github repository (MANDATORY before heroku deployment).
 
