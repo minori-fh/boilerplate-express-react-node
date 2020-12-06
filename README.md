@@ -43,7 +43,7 @@ $ heroku create "heroku-app-name-here"
 ```json
    "heroku-postbuild": "cd client && npm install && npm run build"
 ```
-3. Add following script to the server package.json 
+3. Add following script to the client package.json 
 ```json
    "homepage": "https://{heroku-app-name}.herokuapp.com/"
 ```
